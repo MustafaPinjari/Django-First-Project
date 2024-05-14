@@ -1,7 +1,3 @@
-Certainly! Below is an enhanced version of the `README.md` file with added screenshots and emojis to make it more visually appealing.
-
----
-
 # 🚀 Text Master Django Project
 
 Text Master is a Django web application that allows users to perform various text transformations on their input text. Below is an overview of the project structure, setup instructions, usage guide, and additional notes.
@@ -49,12 +45,12 @@ TextMasterProject/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/TextMasterProject.git
+   git clone https://https://github.com/MustafaPinjari/Django-First-Project.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd TextMasterProject
+   cd TextMaster
    ```
 
 3. **Create a virtual environment:**
