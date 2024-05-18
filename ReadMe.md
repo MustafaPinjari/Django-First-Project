@@ -97,7 +97,10 @@ TextMasterProject/
 3. **View Transformed Text:**
    ![Transformed Text](3.png)
 
-4. **Explore Different Transformations:**
+4. **View about us:**
+   ![Transformed Text](4.png)
+
+5. **Explore Different Transformations:**
    Apply various transformations such as removing spaces, converting to upper/lower case, removing punctuation, title case, and reversing the string.
 
 ## 📝 Additional Notes
