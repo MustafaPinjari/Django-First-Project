@@ -1,6 +1,6 @@
 # 🚀 Text Master Django Project
 
-Text Master is a Django web application that allows users to perform various text transformations on their input text. Below is an overview of the project structure, setup instructions, usage guide, and additional notes
+Text Master is a Django web application that allows users to perform various text transformations on their input text. Below is an overview of the project structure, setup instructions, usage guide, and additional notes.
 
 ## 📁 Project Structure
 
